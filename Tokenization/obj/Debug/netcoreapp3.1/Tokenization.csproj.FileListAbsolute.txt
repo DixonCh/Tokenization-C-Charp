@@ -1,0 +1,11 @@
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.exe
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.deps.json
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.runtimeconfig.json
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.runtimeconfig.dev.json
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.dll
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\bin\Debug\netcoreapp3.1\Tokenization.pdb
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\obj\Debug\netcoreapp3.1\Tokenization.csprojAssemblyReference.cache
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\obj\Debug\netcoreapp3.1\Tokenization.AssemblyInfoInputs.cache
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\obj\Debug\netcoreapp3.1\Tokenization.AssemblyInfo.cs
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\obj\Debug\netcoreapp3.1\Tokenization.dll
+C:\Users\Dixon\source\repos\Tokenization\Tokenization\obj\Debug\netcoreapp3.1\Tokenization.pdb
